@@ -11,17 +11,20 @@ _Replace anything surrounded by the `< >` symbols._
 Please make sure you have completed the soot survey at:
     [soot.binghamton.edu](https://soot.binghamton.edu)
 
-Please list the urls for the APIs you used:
+Please list the urls for the APIs you used: www.thecocktaildb.com/api/json/v1/1/search.php?f=a
+
+https://www.fishwatch.gov/api/species
 
 Summary of Program:
+My program gives the user a list of cocktails and a random fish fact!
 
-Most Challenging topic in the course:
+Most Challenging topic in the course: Probably learning how to work with pygame.
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ none
 
 ## REFERENCES:
- < List any outside resources used >
+ api docs
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ thank you for a great semester!!
